@@ -23,3 +23,5 @@
 8. Admin配置
 
 具体可以参考 [我的有道云笔记](http://note.youdao.com/noteshare?id=47cbbe553e2354336c1b7ea27f838dc1 Django框架搭建博客)
+
+也可以参考https://blog.csdn.net/LinRuiC/article/details/84871684
